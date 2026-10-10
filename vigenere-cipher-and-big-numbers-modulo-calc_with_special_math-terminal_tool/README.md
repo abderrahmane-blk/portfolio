@@ -51,7 +51,8 @@ and you get the result
 enter the ciphered text and the CORRECT KEY to get the result
 ![](assets/vigenere_decipher_correct_key_full.png)
 
-but if you put the wrong key :
+###### but if you put the wrong key :
+
 ![](assets/vigenere_decipher_wrong_key__full.png)
 
 
