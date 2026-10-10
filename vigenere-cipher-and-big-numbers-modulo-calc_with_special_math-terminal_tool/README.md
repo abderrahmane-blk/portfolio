@@ -44,12 +44,12 @@ and it uses the exponentiation method from earlier
 #### Ciphering
 enter the text and a KEY , (remember the key)
 and you get the result
-![](vigenere-cipher-and-big-numbers-modulo-calc_with_special_math-terminal_tool/assets/cipher2__full.png)
+![](assets/cipher2__full.png)
 
 #### Deciphering
 
 enter the ciphered text and the CORRECT KEY to get the result
-![](vigenere-cipher-and-big-numbers-modulo-calc_with_special_math-terminal_tool/assets/vigenere_decipher_correct_key_full.png)
+![](assets/vigenere_decipher_correct_key_full.png)
 
 but if you put the wrong key :
 ![](assets/vigenere_decipher_wrong_key__full.png)
