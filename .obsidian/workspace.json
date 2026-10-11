@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09af90f482c154dd",
+            "id": "07ebe1e7cb9aaaa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,18 @@
               },
               "icon": "lucide-file",
               "title": "README"
+            }
+          },
+          {
+            "id": "09af90f482c154dd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "nedjmou_hotel/assets/photo_5938175643075939901_y.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "photo_5938175643075939901_y"
             }
           }
         ]
@@ -83,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.8790473937988
+    "width": 380.72131729125977
   },
   "right": {
     "id": "dfacdd8a04450f0e",
@@ -188,35 +200,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "09af90f482c154dd",
+  "active": "2b04d1b8ac7e19d8",
   "lastOpenFiles": [
-    "nedjmou_hotel/assets",
-    "nedjmou_hotel",
-    "vigenere-cipher-and-big-numbers-modulo-calc_with_special_math-terminal_tool/README.md",
+    "nedjmou_hotel/assets/photo_5938175643075939901_y.jpg",
+    "nedjmou_hotel/assets/photo_5906869914218205803_y.jpg",
     "nedjmou_hotel/README.md",
+    "nedjmou_hotel/not_done/Unconfirmed 216545.crdownload",
+    "nedjmou_hotel/assets/photo_5906869914218205824_y.jpg",
+    "nedjmou_hotel/assets/photo_5906869914218205823_y.jpg",
+    "nedjmou_hotel/assets/photo_5906869914218205822_y.jpg",
+    "nedjmou_hotel/assets/photo_5906869914218205821_y.jpg",
+    "nedjmou_hotel/assets/photo_5906869914218205820_y.jpg",
+    "nedjmou_hotel/assets/photo_5906869914218205819_y.jpg",
+    "nedjmou_hotel/assets/photo_5906869914218205818_y.jpg",
+    "nedjmou_hotel/assets/photo_5906869914218205817_y.jpg",
+    "nedjmou_hotel/assets",
+    "nedjmou_hotel/assets/Unconfirmed 427787.crdownload",
+    "nedjmou_hotel/assets/Unconfirmed 449945.crdownload",
+    "nedjmou_hotel/assets/Unconfirmed 991417.crdownload",
+    "nedjmou_hotel/assets/Unconfirmed 929160.crdownload",
+    "nedjmou_hotel/assets/Unconfirmed 626370.crdownload",
+    "nedjmou_hotel/assets/Unconfirmed 948897.crdownload",
+    "nedjmou_hotel/assets/Unconfirmed 162374.crdownload",
+    "nedjmou_hotel/assets/Unconfirmed 284586.crdownload",
+    "vigenere-cipher-and-big-numbers-modulo-calc_with_special_math-terminal_tool/README.md",
     "assets/modul.md",
     "README.md",
     "youtube downloader/README.md",
     "Wumpus/README.md",
-    "vigenere-cipher-and-big-numbers-modulo-calc_with_special_math-terminal_tool/assets/vigenere_decipher_wrong_key__full.png",
-    "vigenere-cipher-and-big-numbers-modulo-calc_with_special_math-terminal_tool/assets/vigenere_decipher_correct_key_full.png",
-    "vigenere-cipher-and-big-numbers-modulo-calc_with_special_math-terminal_tool/assets/cipher2__full.png",
-    "vigenere-cipher-and-big-numbers-modulo-calc_with_special_math-terminal_tool/assets/modulo_calc_full_example2.png",
-    "vigenere-cipher-and-big-numbers-modulo-calc_with_special_math-terminal_tool/assets/Screenshot_20261010_145606.png",
-    "nedjmou_hotel/assets",
-    "youtube downloader/assets/Screenshot_20261004_015258.png",
-    "vigenere-cipher-and-big-numbers-modulo-calc_with_special_math-terminal_tool/assets/cipher 2.png",
     "openAi api linked website/README.md",
-    "Wumpus",
-    "openAi api linked website",
-    "vigenere-cipher-and-big-numbers-modulo-calc_with_special_math-terminal_tool/assets",
-    "vigenere-cipher-and-big-numbers-modulo-calc_with_special_math-terminal_tool",
-    "assets/settings.md",
-    "youtube downloader/assets/result-of-download.png",
-    "youtube downloader/assets/Screenshot_20261004_015450.png",
-    "youtube downloader/assets/settings-page.png",
-    "vigenere-cipher-and-big-numbers-modulo-calc_with_special_math-terminal_tool/assets",
-    "youtube downloader/assets",
-    "youtube downloader"
+    "assets/settings.md"
   ]
 }

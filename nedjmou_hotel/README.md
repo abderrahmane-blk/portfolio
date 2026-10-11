@@ -87,72 +87,108 @@ i added and tweaked (with him agreeing) , it became :
 		- nbr of errands done
 		- a __line chart__ showing both : errands created , and errands done by the time created/done 
 		- a numbers extensible section for details of this chart
-
+ 
 - and More features
 
+<br>
+
+---
+
+<br>
+
+## Performance and Optimization
+
+the app database have been populated with more than 10 years of data (more than the actual client would fill even if he uses the app for 30 years)
+
+tested thoroughly
+
+all the screen get the data from the DB with optimized queries ; i mean there is no query that gets the full table or so then show just the required data , as that is a waste of resources 
+
+but actually get the required data only
 
 
+then the app screen have been tested using `fill the name when yu remember it` . with the Worst query taking less than 50ms
 
-## pictures of the app
+<br>— captured with
 
-here are some pictures of the app (not all the app is shown here)
+`script --flush --command "flutter run -d linux --profile --dart-define=LOG_SQL=true" ~/sql-run.log`.
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="path/to/screenshot1.png" width="200" alt="Home Screen"><br>
-      <sub><b>Home Screen</b></sub>
-    </td>
-    <td align="center">
-      <img src="path/to/screenshot2.png" width="200" alt="Queue Details"><br>
-      <sub><b>Queue Details</b></sub>
-    </td>
-    <td align="center">
-      <img src="path/to/screenshot3.png" width="200" alt="Profile View"><br>
-      <sub><b>Profile View</b></sub>
-    </td>
-  </tr>
+**The app is clean.** A whole browsing session was **161 queries / ~1.5 s of database time**;
 
-  <tr>
-    <td align="center">
-      <img src="path/to/screenshot1.png" width="200" alt="Home Screen"><br>
-      <sub><b>Home Screen</b></sub>
-    </td>
-    <td align="center">
-      <img src="path/to/screenshot2.png" width="200" alt="Queue Details"><br>
-      <sub><b>Queue Details</b></sub>
-    </td>
-    <td align="center">
-      <img src="path/to/screenshot3.png" width="200" alt="Profile View"><br>
-      <sub><b>Profile View</b></sub>
-    </td>
-  </tr>
+nothing repeated more than 7 times (no N+1 anywhere); **no unbounded read at all** except
 
- <tr>
-    <td align="center">
-      <img src="path/to/screenshot1.png" width="200" alt="Home Screen"><br>
-      <sub><b>Home Screen</b></sub>
-    </td>
-    <td align="center">
-      <img src="path/to/screenshot2.png" width="200" alt="Queue Details"><br>
-      <sub><b>Queue Details</b></sub>
-    </td>
-    <td align="center">
-      <img src="path/to/screenshot3.png" width="200" alt="Profile View"><br>
-      <sub><b>Profile View</b></sub>
-    </td>
-  </tr>
-</table>
+`SELECT * FROM houses`, which is the sanctioned exception (intended to be this way); 
+
+slowest single statement 33 ms. 
+
+> The performance pass is measured rather than merely asserted.
 
 
+<br>
 
-## pictures again
+---
+<br>
+
+## Some pictures of the app 
+
+<br>
+
+#### main screen
+
 <p align="center">
-  <img src="path/to/screen1.png" width="30%" alt="Screen 1">
-  <img src="path/to/screen2.png" width="30%" alt="Screen 2">
-  <img src="path/to/screen3.png" width="30%" alt="Screen 3">
-  <img src="path/to/screen4.png" width="30%" alt="Screen 4">
-  <img src="path/to/screen5.png" width="30%" alt="Screen 5">
-  <img src="path/to/screen6.png" width="30%" alt="Screen 6">
+  <img src="assets/photo_5938175643075939901_y.jpg" width="30%" alt="Screen 1">
+  <img src="assets/photo_5906869914218205817_y.jpg" width="30%" alt="Screen 2">
+  <img src="assets/photo_5906869914218205812_y.jpg" width="30%" alt="Screen 3">
+   <img src="assets/photo_5906869914218205823_y.jpg" width="30%" alt="Screen 5">
+  <img src="assets/photo_5906869914218205818_y.jpg" width="30%" alt="Screen 4">
+
+
+  <!-- Repeat for all 20+ images -->
+</p>
+<br>
+
+#### some of the other screens
+
+
+<p align="center">
+  <img src="assets/photo_5906869914218205804_y.jpg" width="30%" alt="Screen 1">
+  <img src="assets/photo_5906869914218205809_y.jpg" width="30%" alt="Screen 2">
+  <img src="assets/photo_5906869914218205811_y.jpg" width="30%" alt="Screen 3">
+   <img src="assets/photo_5906869914218205824_y.jpg" width="30%" alt="Screen 6">
+  <img src="assets/photo_5906869914218205813_y.jpg" width="30%" alt="Screen 4">
+  <img src="assets/photo_5906869914218205814_y.jpg" width="30%" alt="Screen 5">
+  <img src="assets/photo_5906869914218205815_y.jpg" width="30%" alt="Screen 6">  
+  <img src="assets/photo_5906869914218205821_y.jpg" width="30%" alt="Screen 6">
+
+  <!-- Repeat for all 20+ images -->
+</p>
+
+<br>
+
+#### Statistics
+
+<p align="center">
+  <img src="assets/photo_5906869914218205806_y.jpg" width="30%" alt="Screen 1">
+  <img src="assets/photo_5906869914218205807_y.jpg" width="30%" alt="Screen 2">
+  <img src="assets/photo_5906869914218205808_y.jpg" width="30%" alt="Screen 3">
+  <img src="assets/photo_5906869914218205819_y.jpg" width="30%" alt="Screen 4">
+  <img src="assets/photo_5906869914218205820_y.jpg" width="30%" alt="Screen 5">
+  <img src="assets/photo_5906869914218205822_y.jpg" width="30%" alt="Screen 6">
+ 
+    
+  
+  <!-- Repeat for all 20+ images -->
+</p>
+
+<br>
+
+#### settings 
+
+
+<p align="center">
+  <img src="assets/photo_5906869914218205805_y.jpg" width="30%" alt="Screen 1">
+  <img src="assets/photo_5906869914218205816_y.jpg" width="30%" alt="Screen 2">
+  <img src="assets/photo_5906869914218205803_y.jpg" width="30%" alt="Screen 3">
+
   <!-- Repeat for all 20+ images -->
 </p>
