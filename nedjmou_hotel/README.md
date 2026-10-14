@@ -107,7 +107,8 @@ all the screen get the data from the DB with optimized queries ; i mean there is
 but actually get the required data only
 
 
-then the app screen have been tested using `fill the name when yu remember it` . with the Worst query taking less than 50ms
+The app screens were tested using **custom SQL query logging and timing via** `**SqlLogInterceptor**`, with the slowest query taking less than 50 ms (33ms to be exact).
+
 
 <br>— captured with
 

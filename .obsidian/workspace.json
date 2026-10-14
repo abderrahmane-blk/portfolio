@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "09af90f482c154dd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "nedjmou_hotel/assets/photo_5938175643075939901_y.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "photo_5938175643075939901_y"
-            }
           }
         ]
       }
@@ -200,11 +188,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "2b04d1b8ac7e19d8",
+  "active": "07ebe1e7cb9aaaa4",
   "lastOpenFiles": [
+    "README.md",
+    "nedjmou_hotel/README.md",
+    "openAi api linked website/README.md",
+    "Untitled.md",
     "nedjmou_hotel/assets/photo_5938175643075939901_y.jpg",
     "nedjmou_hotel/assets/photo_5906869914218205803_y.jpg",
-    "nedjmou_hotel/README.md",
     "nedjmou_hotel/not_done/Unconfirmed 216545.crdownload",
     "nedjmou_hotel/assets/photo_5906869914218205824_y.jpg",
     "nedjmou_hotel/assets/photo_5906869914218205823_y.jpg",
@@ -225,10 +216,8 @@
     "nedjmou_hotel/assets/Unconfirmed 284586.crdownload",
     "vigenere-cipher-and-big-numbers-modulo-calc_with_special_math-terminal_tool/README.md",
     "assets/modul.md",
-    "README.md",
     "youtube downloader/README.md",
     "Wumpus/README.md",
-    "openAi api linked website/README.md",
     "assets/settings.md"
   ]
 }
