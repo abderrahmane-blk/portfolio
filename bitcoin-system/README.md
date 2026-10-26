@@ -146,9 +146,13 @@ this is the rule that handles two miners finding a block at the same time. with 
 ## Stack
 
 `python`
+
 `fastapi` + `uvicorn` - node servers
+
 `httpx` - async calls between nodes
+
 `hashlib` - SHA-256
+
 `electronjs` - GUI
 
 ## what this project shows
