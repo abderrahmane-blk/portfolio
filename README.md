@@ -8,5 +8,3 @@ some are made without ai , and in some i used AI to code __while i supervised an
 > i am documenting my portfolio nowadays whenever i get the chance
 > 
 > for now , take a look at __nedjmou_hotel__ project , that one is the only good one documented so far 
-
-
