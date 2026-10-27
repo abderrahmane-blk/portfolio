@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitcoin-system/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -79,8 +79,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,8 +188,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "b2d037e75bd4ccb7",
+  "active": "e1f0cb6030fd5e48",
   "lastOpenFiles": [
+    "bitcoin-system/README.md",
     "bitcoin-system/assets/user1-node-part1.png",
     "bitcoin-system/assets/GUI-usage.gif",
     "bitcoin-system/assets/GUI.png",
@@ -201,8 +201,6 @@
     "bitcoin-system/assets/user2-MINING-the-block-which-contains-user3-transaction.png",
     "bitcoin-system/assets/user1-nodeStatus-after-the-user3-transaction.png",
     "bitcoin-system/assets/user2-node-after-the-user3-transaction.png",
-    "bitcoin-system/assets/user3_using-the-app-via-shell_and_making_a_transaction_yet-to-be-mined.png",
-    "bitcoin-system/README.md",
     "bitcoin-system/README_for_code_repo.md",
     "bitcoin-system/assets",
     "README.md",
