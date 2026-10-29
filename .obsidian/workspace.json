@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "motor-bikes-ecommerce-website/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "README"
+            }
+          },
+          {
+            "id": "97b31cac2124fd1c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "motor-bikes-ecommerce-website/assets/checkout-page-fullpage-with-mock-data.png"
+              },
+              "icon": "lucide-image",
+              "title": "checkout-page-fullpage-with-mock-data"
             }
           }
         ]
@@ -190,23 +202,26 @@
   },
   "active": "e1f0cb6030fd5e48",
   "lastOpenFiles": [
+    "nedjmou_hotel/README.md",
+    "motor-bikes-ecommerce-website/assets/checkout-page-part1-fullpage.png",
+    "motor-bikes-ecommerce-website/assets/checkout-page-fullpage-with-mock-data.png",
+    "motor-bikes-ecommerce-website/assets/contact-page-full.png",
+    "motor-bikes-ecommerce-website/assets/checkout-page-part3.png",
+    "motor-bikes-ecommerce-website/assets/checkout-page-part2.png",
+    "motor-bikes-ecommerce-website/README.md",
+    "motor-bikes-ecommerce-website/README.md",
+    "motor-bikes-ecommerce-website/assets/main_view.png",
+    "motor-bikes-ecommerce-website/assets/main_page_fullpage_phone.png",
+    "motor-bikes-ecommerce-website/assets/Screenshot 2026-10-29 at 01-41-13 MotoTech - Premium Motorcycle Parts & Expert Service_small.png",
+    "motor-bikes-ecommerce-website/Unconfirmed 102977.crdownload",
+    "README.md",
     "bitcoin-system/README.md",
     "bitcoin-system/assets/user1-node-part1.png",
     "bitcoin-system/assets/GUI-usage.gif",
-    "bitcoin-system/assets/GUI.png",
-    "bitcoin-system/assets/node3-status-after-block-mined.png",
-    "bitcoin-system/assets/node2-status-after-mining.png",
-    "bitcoin-system/assets/node1-status-after-transaction-mined-by-user2.png",
-    "bitcoin-system/assets/mainNode-during-the-mining-done-by-node2.png",
-    "bitcoin-system/assets/user2-MINING-the-block-which-contains-user3-transaction.png",
-    "bitcoin-system/assets/user1-nodeStatus-after-the-user3-transaction.png",
-    "bitcoin-system/assets/user2-node-after-the-user3-transaction.png",
     "bitcoin-system/README_for_code_repo.md",
     "bitcoin-system/assets",
-    "README.md",
     "bitcoin system/Unconfirmed 513139.crdownload",
     "bitcoin system/Unconfirmed 321704.crdownload",
-    "nedjmou_hotel/README.md",
     "bitcoin-system",
     "openAi api linked website/README.md",
     "nedjmou_hotel/not_done/Unconfirmed 216545.crdownload",
@@ -214,7 +229,6 @@
     "nedjmou_hotel/assets/Unconfirmed 427787.crdownload",
     "nedjmou_hotel/assets/Unconfirmed 449945.crdownload",
     "nedjmou_hotel/assets/Unconfirmed 991417.crdownload",
-    "nedjmou_hotel/assets/Unconfirmed 929160.crdownload",
     "vigenere-cipher-and-big-numbers-modulo-calc_with_special_math-terminal_tool/README.md",
     "assets/modul.md",
     "youtube downloader/README.md",

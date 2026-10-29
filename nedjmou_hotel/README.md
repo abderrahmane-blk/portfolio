@@ -1,4 +1,4 @@
-> this project is in production , a business owner asked for specific features , and has already used it and was contempt by it
+> this project is in production , a business owner asked for specific features , and has already used it and is content with it
 
 ## idea
 my client asked for an app where he can control the rent of the apartments he has
